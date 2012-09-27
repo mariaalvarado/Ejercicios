@@ -18,6 +18,7 @@ int area= 0;
 Rectangulo rectangulo = new Rectangulo();
 area = rectangulo.largo * rectangulo.ancho;
 System.out.println("area = " + area);
+    System.out.println("hola mundo");
 
 }
 }
